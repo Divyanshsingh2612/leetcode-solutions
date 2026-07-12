@@ -1,0 +1,17 @@
+class Solution {
+public:
+    string longestCommonPrefix(vector<string>& strs) {
+        if (strs.empty()) return "";
+
+        const string& first = strs[0];
+        for (size_t i = 0; i < first.size(); i++) {
+            char ch = first[i];
+            for (size_t j = 1; j < strs.size(); j++) {
+                if (i >= strs[j].size() || strs[j][i] != ch) {
+                    return first.substr(0, i);
+                }
+            }
+        }
+        return first;
+    }
+};
