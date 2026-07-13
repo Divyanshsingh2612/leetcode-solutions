@@ -1,19 +1,20 @@
 class Solution {
 public:
     bool isValid(string s) {
-        if (s.length() % 2 != 0) return false;   // fail fast
-
-        unordered_map<char, char> pairs = {
-            {')', '('}, {']', '['}, {'}', '{'}
-        };
         stack<char> st;
 
         for (char ch : s) {
-            if (pairs.count(ch)) {                // closing bracket
-                if (st.empty() || st.top() != pairs[ch]) return false;
+            if (ch == '(' || ch == '{' || ch == '[') {
+                st.push(ch);                 // opening bracket
+            } else {
+                if (st.empty()) return false; // closing bracket
+                char top = st.top();
                 st.pop();
-            } else {                              // opening bracket
-                st.push(ch);
+                if ((ch == ')' && top != '(') ||
+                    (ch == ']' && top != '[') ||
+                    (ch == '}' && top != '{')) {
+                    return false;             
+                }
             }
         }
 
