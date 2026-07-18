@@ -38,6 +38,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
