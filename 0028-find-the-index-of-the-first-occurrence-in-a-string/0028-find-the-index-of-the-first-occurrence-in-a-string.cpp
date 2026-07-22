@@ -4,22 +4,48 @@ public:
         int n = haystack.size();
         int m = needle.size();
 
-        // Check every possible starting position
-        for (int i = 0; i <= n - m; i++) {
-            int j = 0;
+        // Build LPS (Longest Prefix Suffix) array
+        vector<int> lps(m, 0);
 
-            // Compare characters one by one
-            while (j < m && haystack[i + j] == needle[j]) {
-                j++;
-            }
+        int len = 0;
+        int i = 1;
 
-            // If all characters matched, return the index
-            if (j == m) {
-                return i;
+        while (i < m) {
+            if (needle[i] == needle[len]) {
+                len++;
+                lps[i] = len;
+                i++;
+            } else {
+                if (len != 0) {
+                    len = lps[len - 1];
+                } else {
+                    lps[i] = 0;
+                    i++;
+                }
             }
         }
 
-        // Needle not found
+        // Search using KMP
+        int j = 0;
+        i = 0;
+
+        while (i < n) {
+            if (haystack[i] == needle[j]) {
+                i++;
+                j++;
+            }
+
+            if (j == m) {
+                return i - j;
+            } else if (i < n && haystack[i] != needle[j]) {
+                if (j != 0) {
+                    j = lps[j - 1];
+                } else {
+                    i++;
+                }
+            }
+        }
+
         return -1;
     }
 };
