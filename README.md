@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [0002-add-two-numbers](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
