@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
@@ -53,6 +54,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -65,4 +67,8 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
