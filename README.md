@@ -20,6 +20,7 @@
 | [0020-valid-parentheses](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@
 | [0009-palindrome-number](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -71,4 +73,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
