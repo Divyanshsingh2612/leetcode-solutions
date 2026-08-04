@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@
 | [0001-two-sum](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [3731-find-missing-elements](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +105,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 <!---LeetCode Topics End-->
