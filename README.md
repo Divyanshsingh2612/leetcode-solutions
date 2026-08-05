@@ -106,4 +106,16 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
