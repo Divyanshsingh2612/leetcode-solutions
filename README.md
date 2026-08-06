@@ -60,6 +60,7 @@
 | [0067-add-binary](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +119,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
