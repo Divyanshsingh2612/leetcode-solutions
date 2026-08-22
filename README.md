@@ -16,6 +16,7 @@
 | [0066-plus-one](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [3731-find-missing-elements](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
@@ -112,6 +113,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
