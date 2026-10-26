@@ -190,6 +190,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1251-average-selling-price](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1683-invalid-tweets](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
