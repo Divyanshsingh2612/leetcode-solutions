@@ -186,6 +186,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0178-rank-scores](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0262-trips-and-users](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0262-trips-and-users/) | Hard |
 | [0584-find-customer-referee](https://github.com/Divyanshsingh2612/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
